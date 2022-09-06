@@ -64,7 +64,9 @@ footer div {
 }
 
 footer a {
-  color: #024e76;
+  color: black;
+  font-size: 30px;
+  font-weight: bold;
 }
 
 section {
